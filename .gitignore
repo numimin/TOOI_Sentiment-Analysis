@@ -5,3 +5,6 @@ interfax0.csv
 rbc.csv
 ria.csv
 *.csv
+torch-1.0.0-cp35-cp35m-win_amd64.whl
+torch-1.12.0+cpu-cp310-cp310-win_amd64.whl
+cudnn64_6.dll
