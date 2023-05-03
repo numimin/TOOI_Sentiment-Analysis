@@ -8,3 +8,8 @@ ria.csv
 torch-1.0.0-cp35-cp35m-win_amd64.whl
 torch-1.12.0+cpu-cp310-cp310-win_amd64.whl
 cudnn64_6.dll
+word2vec.model.syn1neg.npy
+word2vec.model.syn1neg.npy
+navec_hudlit_v1_12B_500K_300d_100q.tar
+word2vec.model.syn1neg.npy
+word2vec.model.wv.vectors.npy
